@@ -18,5 +18,3 @@
 
  // == só compara o valor
  // === compara o valor e o tipo de dado
-
- // Conversão

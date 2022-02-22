@@ -27,3 +27,4 @@ const sumLittleNumbers = (a, b) => {
         return a + b;
     }
 }
+console.log(sumLittleNumbers(9,9))
